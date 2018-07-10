@@ -37,7 +37,7 @@ name | nodeType | example values | explanation
 **orig** | `word` | `λόγος,` | the word as encoded in the source file, after splitting on white space
 **pre** | `word` | `?̔` | pre-word material: non letter characters at the start of a word
 **main** | `word` | `λόγος` | the word, after splitting on white space and punctuation
-**plain** | `word` | `λόγος` | the word, stripped of accents, capitalized, after splitting on white space and punctuation
+**plain** | `word` | `ΛΟΓΟΣ` | the word, stripped of accents, capitalized, after splitting on white space and punctuation
 **page** | `word` | `191` | number of the new page that starts right before the present word
 **para** | `word` | `+` | indicates that a new paragraph starts right before the present word
 
