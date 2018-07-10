@@ -1,3 +1,6 @@
 # patristics
+in
+This repository contains TF files of formerly XML files.
 
-This repository contains TF files of formerly XML files of in this case the gospel of John.
+Current:
+- Gospel of John
