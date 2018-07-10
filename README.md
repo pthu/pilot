@@ -1,3 +1,3 @@
 # patristics
 
-This repository contains TF files of formerly XML files of patristic texts.
+This repository contains TF files of formerly XML files of in this case the gospel of John.
