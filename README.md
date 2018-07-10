@@ -10,6 +10,8 @@ In the *sources* directory there are partristic (*pt*) and New Testament texts (
 
 They are in XML-TEI.
 
+Currently: only the book of John.
+
 (provenance to be written)
 
 ## Converted data
