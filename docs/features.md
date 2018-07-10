@@ -25,7 +25,7 @@ All the concrete material is added onto them in the form of additional node feat
 
 
 name | nodeType | example values | explanation
---- | --- | ---
+--- | --- | --- | ---
 **otype** | all | `word` `verse` `chapter` `book` | the type of a node
 **oslots** | all non-slot types | {`1`, `2`, `3`} | per non-slot node it is the sets of slots linked to it
 **otext** | none | none | configuration file: definition of text-formats and sections
