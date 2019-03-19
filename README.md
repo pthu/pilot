@@ -1,4 +1,4 @@
-<img src="/docs/images/tficon-small.png" align="left"/>
+<img src="/docs/images/tf-small.png" align="left"/>
 
 # Pilot
 
